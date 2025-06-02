@@ -30,7 +30,7 @@ También sirve como referencia de código básico en HTML y CSS para quienes est
 
 🚀 Visualización
 Puedes ver el sitio directamente online mediante GitHub Pages:
-🔗 [Trabajo Microsoft Excel](https://nerxtkd.github.io/excel-tools-navigator/)
+🔗 [Trabajo Microsoft Excel](https://nerxtkd.github.io/Excel-Tools-Navigator-Project/)
 
 ## 📌 Notas:
 Este trabajo fue realizado durante mi matriculación en el grado superior de ASIR, como parte de la evaluación final del módulo de Inglés.
