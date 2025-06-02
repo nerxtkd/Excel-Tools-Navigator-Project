@@ -38,7 +38,7 @@ Puedes ver el sitio directamente online mediante GitHub Pages:
 Este trabajo fue realizado durante mi matriculación en el grado superior de ASIR, como parte de la evaluación final del módulo de Inglés.
 **Calificación final:** Sobresaliente (10/10).
 
-## 👩‍💻 Autora
+## 👩‍💻 Autora:
+Trabajo realizado por Nerea C.  
+🔗 Puedes ver otros proyectos en mi perfil de GitHub: [@nerxtkd](https://github.com/nerxtkd)
 
-Trabajo realizado por Nerea C.
-Puedes ver otros proyectos en mi perfil de GitHub: [@nerxtkd](https://github.com/nerxtkd)
