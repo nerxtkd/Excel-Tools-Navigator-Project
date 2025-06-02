@@ -1,0 +1,117 @@
+		html, body {
+			margin: 0px 0px 0px 0px;
+			padding: 0px 0px 0px 0px;
+			height: 100%;
+			font-family: 'Roboto', sans-serif;
+		}
+		h1 {
+			margin: 0px 0px 0px 0px;
+			padding: 0px 0px 0px 0px;
+		}
+		h3 {
+			margin: 0px 0px 0px 0px;
+			padding: 10px 0px 0px 0px;
+			font-size: 30px;
+  		font-family: math;
+		}
+		header {
+			height: 90px;
+			background-color: #145A32;
+			color:  white;
+		}
+		aside{
+			display:  inline-block;
+			width: 20%;
+			float: left;
+			background-color: #FFC300;
+			color: black;
+			height: 100%;
+		}
+		main{
+			background-color: #ABEBC6;
+			width: 80%;
+			display: inline-block;
+			height: 100%;
+		}
+		div.content {
+			padding: 1rem 1rem 1rem 1rem;
+		}
+
+
+div.row {
+	margin:  0px 20px 20px 20px;
+	padding: 0px 0px 0px 0px;
+	display: block;
+}
+div.col50{
+	justify-content: center;
+	margin: 20px 20px 0px 20px;
+	padding: 0px 0px 0px 0px;
+	display: inline-block;
+	width: 15%;
+}
+
+div.card {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	width: 120px;
+	height: 205px;
+	margin: auto;
+	text-align: center;
+	background-color: #FFC300;
+	}
+
+img{
+	width: 100%;
+}
+
+h2 {
+	font-size: 16px;
+	margin: 0px 0px 0px 0px;
+	text-align: center;
+	color: black;
+}
+
+h4 {
+	font-size: 12px;
+	margin: 0px 0px 0px 0px;
+	text-align: center;
+	color: black;
+}
+
+p.price {
+	color: black;
+	font-size: 14px;
+	margin: 0px 0px 0px 0px;
+	text-align: center;
+}
+p.description {
+	color: black;
+	font-size: 10px;
+	margin: 0px 0px 0px 0px;
+	text-align: center;
+}
+p.graphics {
+	color: black;
+	font-size: 12px;
+	margin: 0px 0px 0px 0px;
+	text-align: center;
+}
+button {
+	margin: 5px 0px 0px 0px;
+	font size: 14px;
+}
+div.card button {
+  border: none;
+  outline: 0;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 16px;
+}
+
+div.card button.:hover {
+  opacity: 0.7;
+}
+
