@@ -3,6 +3,8 @@
 Este proyecto es una guía visual y educativa sobre el uso de Microsoft Excel, realizada como trabajo final educativo. 
 Está organizada en forma de sitio web con menús temáticos que cubren distintas pestañas de Excel (Inicio, Insertar, Fórmulas, etc.).
 
+---
+
 ## 🌐 ¿Qué incluye?
 
 - Navegación por menús de Excel.
@@ -28,7 +30,7 @@ Está organizada en forma de sitio web con menús temáticos que cubren distinta
 Aportar código en HTML y CSS para aquellos que se estén iniciando.
 También sirve como referencia de código básico en HTML y CSS para quienes están dando sus primeros pasos en desarrollo web.
 
-🚀 Visualización
+## 🚀 Visualización
 Puedes ver el sitio directamente online mediante GitHub Pages:
 🔗 [Trabajo Microsoft Excel](https://nerxtkd.github.io/Excel-Tools-Navigator-Project/)
 
